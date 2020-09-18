@@ -3,3 +3,6 @@ Notes:  sammenligning af datapunkter bestående af tektsdata; content based reco
 
 Mapping Cosmetic Items with Bokeh: https://towardsdatascience.com/for-your-skin-beauty-mapping-cosmetic-items-with-bokeh-
 
+
+Article about ingredient lists EU vs. US: https://cosmeticsbusiness.com/news/article_page/A_guide_on_how_to_write_cosmetics_ingredient_lists_in_EU_US_and_Canada/167611
+Notes: super vigtigt at have øje for forskelle i navngivningskonventioner i verden, vi skal nemlig standardisere navngivning af ingredienser hvis der er uoverenstemmelser.
