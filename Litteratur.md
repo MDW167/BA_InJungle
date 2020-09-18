@@ -1,0 +1,1 @@
+How to build a content-based movie recommender system with Natural Language Processing: https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243
